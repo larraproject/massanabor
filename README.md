@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta name="description" content="Сайт рациона питания для набора массы">
     <meta name="keywords" content="сайт, рацион питания, набор массы, питание">
-    <title>Рацион питания для набора массы</title>
   </head>
 
   <body>
